@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: PriestBiS
+## Author: Holyrock
+## Notes: Utility addon for Priests to keep track of BiS items.
+## Version: 0.0.1
+
+Items.lua
+API.lua
