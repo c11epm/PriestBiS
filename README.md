@@ -7,12 +7,12 @@ The item classification comes from the google sheet created by Nimriye#5959 link
 The Add on adds a line with the current format:
 BiS Ranking:        R: X, S: Y, P: Z    where:
 
-R = Rank 
-X = Rank number (Rank 1 = Best item for current slot)
-S = Score
-Y = Score number from the sheet
-P = Phase
-Z = Phase number when the item became available in the game
+* R = Rank 
+* X = Rank number (Rank 1 = Best item for current slot)
+* S = Score
+* Y = Score number from the sheet
+* P = Phase
+* Z = Phase number when the item became available in the game
 
 # Setup
 1. Download this repository as a zip
