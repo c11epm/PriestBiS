@@ -3,6 +3,8 @@ Easy tool to keep track of the BiS items for a holy or disc Priest in classic Wo
 
 The item classification comes from the google sheet created by Nimriye#5959 linked on the Priest Classic discord: https://discord.gg/SDJnDW
 
+![Tooltip window with the addon installed](doc/addon.png)
+
 # Output
 The Add on adds a line with the current format:
 BiS Ranking:        R: X, S: Y, P: Z    where:

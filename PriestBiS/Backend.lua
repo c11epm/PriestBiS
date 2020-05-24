@@ -1,4 +1,4 @@
-local function updateTooltip(tooltip)
+local function updateBiSTooltip(tooltip)
     name, _ = tooltip:GetItem()
     itemText = items[name]
     if itemText ~= nil then
@@ -6,7 +6,6 @@ local function updateTooltip(tooltip)
     else
         tooltip:AddDoubleLine("BiS ranking:", "Ranking < top 10")
 	end
-
 end
 
 enabled = true
@@ -15,5 +14,5 @@ enabled = true
 -- TODO 
 -- Add slash commands to enable / disable the tooltips
 
-GameTooltip:SetScript("OnTooltipSetItem", updateTooltip)
-ItemRefTooltip:SetScript("OnTooltipSetItem", updateTooltip)
+GameTooltip:HookScript("OnTooltipSetItem", updateBiSTooltip)
+ItemRefTooltip:HookScript("OnTooltipSetItem", updateBiSTooltip)

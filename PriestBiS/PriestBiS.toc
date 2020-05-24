@@ -2,7 +2,7 @@
 ## Title: PriestBiS
 ## Author: Holyrock
 ## Notes: Utility addon for Priests to keep track of BiS items.
-## Version: 0.0.1
+## Version: 0.1.0
 
 Items.lua
-API.lua
+Backend.lua
