@@ -9,6 +9,11 @@ local function updateTooltip(tooltip)
 
 end
 
+enabled = true
+
+
+-- TODO 
+-- Add slash commands to enable / disable the tooltips
 
 GameTooltip:SetScript("OnTooltipSetItem", updateTooltip)
 ItemRefTooltip:SetScript("OnTooltipSetItem", updateTooltip)
