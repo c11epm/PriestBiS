@@ -1,7 +1,7 @@
 # PriestBiS
 Easy tool to keep track of the BiS items for a holy or disc Priest in classic WoW.
 
-The item classification comes from the google sheet created by Nimriye#5959 linked on the Priest Classic discord: https://discord.gg/SDJnDW
+The item classification comes from the google sheet created by Nimriye#5959 linked on the "Priest Classic" discord: https://docs.google.com/spreadsheets/d/11tqJdHFSc0WQR_J2zyVSA29kppCd5dWdv6iv2c88yUo/
 
 ![Tooltip window with the addon installed](/doc/addon.PNG)
 
