@@ -7,17 +7,17 @@ The item classification comes from the google sheet created by Battle.net tag BD
 
 # Output
 The Add on adds some basic data about the item such as:
-Ranking: The BiS ranking, Rank 1 for the best item in the expansion.
-Phase: Which phase the item gets added in, phase 0 for WoW Classic
-Value: The score value calculated from the given parameters from the google sheet linked above
+* Ranking: The BiS ranking, Rank 1 for the best item in the expansion.
+* Phase: Which phase the item gets added in, phase 0 for WoW Classic
+* Value: The score value calculated from the given parameters from the google sheet linked above
 
 The value calculations used the following assumptions:
-Casts/minute : 25
-Spirit: 450
-Int: 450
-In 5SR Regen: 35%
-Time in 5SR: 90%
-On use value bonus: 115%
+* Casts/minute : 25
+* Spirit: 450
+* Int: 450
+* In 5SR Regen: 35%
+* Time in 5SR: 90%
+* On use value bonus: 115%
 
 # Setup
 1. Download this repository as a zip
