@@ -58,7 +58,7 @@ items = {
     ["Brutal Gladiator's Mooncloth Mantle"] = {rank = 9, phase = 5, value = 102},
     ["Hallowed Paulders"] = {rank = 10, phase = 1, value = 96.7},
     ["Vengeful Gladiator's Mooncloth Mantle"] = {rank = 11, phase = 4, value = 88.85},
-    ["Shoulders of Faith"] = {rank = 12, phase = 0, value = 83.05},
+    ["Shoulderpads of Faith"] = {rank = 12, phase = 0, value = 83.05},
     ["Pauldrons of Sufferance"] = {rank = 13, phase = 1, value = 80.1},
     ["Vestia's Pauldrons of Inner Grace"] = {rank = 14, phase = 1, value = 79.6},
     ["Merciless Gladiator's Mooncloth Mantle"] = {rank = 15, phase = 3, value = 78.95},
