@@ -162,7 +162,7 @@ items = {
     ["Belt of Faith"] = {rank = 15, phase = 0, value = 77.2},
     ["Belt of Transcendence"] = {rank = 16, phase = 0, value = 67.97},
     -- Legs
-    ["Pants of Calming Strife"] = {rank = 1, phase = 5, value = 225.98},
+    ["Pantaloons of Calming Strife"] = {rank = 1, phase = 5, value = 225.98},
     ["Leggings of Eternity"] = {rank = 2, phase = 3, value = 213.25},
     ["Gilded Trousers of Benediction"] = {rank = 3, phase = 1, value = 210.15},
     ["Breeches of Absolution"] = {rank = 4, phase = 3, value = 193.9},
